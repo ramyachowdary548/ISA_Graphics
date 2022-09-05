@@ -1,3 +1,3 @@
 # ISA_Graphics
 #1. Updating antivirus:
-![This is an image](https://www.reveantivirus.com/blog/en/update-antivirus-software)
+![This is an image](https://github.com/ramyachowdary548/ISA_Graphics/issues/1#issue-1362527488)
