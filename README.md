@@ -1,2 +1,2 @@
-# ISA_Graphics
-#1. Updating antivirus:![This is an image](https://github.com/ramyachowdary548/ISA_Graphics/issues/1#issue-1362527488)
+update Anti Virus 
+![Anti_Update](https://user-images.githubusercontent.com/112908219/189004361-f3ba75f9-14aa-4766-9b8a-30800185a7bc.jpeg)
